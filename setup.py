@@ -35,6 +35,3 @@ setup(
         'Programming Language :: Python :: 3.6'
     ],
 )
-
-
-© 2018 GitHub, Inc.
