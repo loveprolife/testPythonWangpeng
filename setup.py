@@ -14,7 +14,7 @@ setup(
     name="testWangPeng",
     version=100,
     description="testWangPeng description",
-    packages=["testPythonWangpeng", "testPythonWangpeng.package_runoob"],
+    packages=["package_runoob"],
     author="wangPeng",
     author_email="wangPeng@wangPeng.com",
     maintainer="wangpeng",
